@@ -101,7 +101,8 @@ Install-Package Microsoft.Extensions.DependencyInjection
 
 ### 2. Компиляция и запуск
 Запустите проект в Visual Studio.
-В браузере нужно будет перейти на страницу.
+
+В браузере нужно будет перейти на страницу:
 ```
 https://localhost:59195/swagger/index.html
 ```
