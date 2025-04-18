@@ -100,8 +100,9 @@ Install-Package Microsoft.Extensions.DependencyInjection
 ```
 
 ### 2. Компиляция и запуск
-Запустите Visual Studio и выполните:
+Запустите проект в Visual Studio.
+В браузере нужно будет перейти на страницу.
 ```
-Ctrl + F5
+https://localhost:59195/swagger/index.html
 ```
-Программа запустится и выведет данные о зоопарке.
+Далее можно тестировать работоспособность Post/Get/Put запросы.
